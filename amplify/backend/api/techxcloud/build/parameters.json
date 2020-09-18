@@ -1,0 +1,8 @@
+{
+    "CreateAPIKey": 1,
+    "AppSyncApiName": "techxcloud",
+    "DynamoDBBillingMode": "PAY_PER_REQUEST",
+    "DynamoDBEnableServerSideEncryption": false,
+    "S3DeploymentBucket": "amplify-techxcloud-dev-145130-deployment",
+    "S3DeploymentRootKey": "amplify-appsync-files/b7893331eba9ea07705bec9b21f922681434ccb6"
+}

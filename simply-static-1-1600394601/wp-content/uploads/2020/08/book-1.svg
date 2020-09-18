@@ -1,0 +1,34 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" id="Capa_1" x="0px" y="0px" viewBox="0 0 512 512" style="enable-background:new 0 0 512 512;" xml:space="preserve" width="512px" height="512px" class=""><g><g>
+	<polygon style="fill:#FFB229" points="512,416 288,416 288,400 496,400 496,112 472,112 472,96 512,96  " data-original="#43D3E8" class="active-path" data-old_color="#43D3E8"></polygon>
+	<path style="fill:#FFB229" d="M40,480c-1.032,0-2.072-0.192-3.064-0.608C33.952,478.16,32,475.232,32,472v-40h16v20.688   l50.344-50.344C99.84,400.84,101.88,400,104,400h120v16H107.312l-61.656,61.656C44.128,479.184,42.08,480,40,480z" data-original="#43D3E8" class="active-path" data-old_color="#43D3E8"></path>
+	<polygon style="fill:#FFB229" points="48,432 32,432 32,416 0,416 0,96 40,96 40,112 16,112 16,400 48,400  " data-original="#43D3E8" class="active-path" data-old_color="#43D3E8"></polygon>
+</g><polygon style="fill:#F96232;" points="360,280 288,280 288,168 360,168 360,184 304,184 304,264 360,264 " data-original="#F96232"></polygon><rect x="248" y="104" style="fill:#FFFFFF" width="16" height="264" data-original="#403E3E" class="" data-old_color="#403E3E"></rect><g>
+	<path style="fill:#F96232;" d="M136,216h-16v-80c0-4.288-1.544-7.832-4.856-11.144c-6.624-6.624-15.664-6.624-22.288,0   C89.544,128.168,88,131.712,88,136v80H72v-80c0-8.568,3.208-16.128,9.544-22.456S95.432,104,104,104s16.128,3.208,22.456,9.544   C132.784,119.88,136,127.432,136,136V216z" data-original="#F96232"></path>
+	<rect x="80" y="152" style="fill:#F96232;" width="48" height="16" data-original="#F96232"></rect>
+</g><g>
+	<path style="fill:#FFFFFF" d="M424,344h-16c0-13.232-10.768-24-24-24h-8V32h8c22.056,0,40,17.944,40,40V344z M392,304.808   c5.904,1.2,11.344,3.712,16,7.208V72c0-10.432-6.688-19.328-16-22.632V304.808z" data-original="#403E3E" class="" data-old_color="#403E3E"></path>
+	<path style="fill:#FFFFFF" d="M384,384v-16c13.232,0,24-10.768,24-24h16C424,366.056,406.056,384,384,384z" data-original="#403E3E" class="" data-old_color="#403E3E"></path>
+	<polygon style="fill:#FFFFFF" points="256,419.312 220.688,384 32,384 32,64 227.312,64 256,92.688 284.688,64 360,64 360,80    291.312,80 256,115.312 220.688,80 48,80 48,368 227.312,368 256,396.688 284.688,368 464,368 464,80 416,80 416,64 480,64    480,384 291.312,384  " data-original="#403E3E" class="" data-old_color="#403E3E"></polygon>
+	<rect x="416" y="136" style="fill:#FFFFFF" width="24" height="16" data-original="#403E3E" class="" data-old_color="#403E3E"></rect>
+	<rect x="416" y="104" style="fill:#FFFFFF" width="24" height="16" data-original="#403E3E" class="" data-old_color="#403E3E"></rect>
+	<rect x="416" y="168" style="fill:#FFFFFF" width="24" height="16" data-original="#403E3E" class="" data-old_color="#403E3E"></rect>
+	<rect x="416" y="232" style="fill:#FFFFFF" width="24" height="16" data-original="#403E3E" class="" data-old_color="#403E3E"></rect>
+	<rect x="416" y="200" style="fill:#FFFFFF" width="24" height="16" data-original="#403E3E" class="" data-old_color="#403E3E"></rect>
+	<rect x="416" y="264" style="fill:#FFFFFF" width="24" height="16" data-original="#403E3E" class="" data-old_color="#403E3E"></rect>
+	<rect x="416" y="296" style="fill:#FFFFFF" width="24" height="16" data-original="#403E3E" class="" data-old_color="#403E3E"></rect>
+	<rect x="416" y="328" style="fill:#FFFFFF" width="24" height="16" data-original="#403E3E" class="" data-old_color="#403E3E"></rect>
+	<rect x="152" y="104" style="fill:#FFFFFF" width="72" height="16" data-original="#403E3E" class="" data-old_color="#403E3E"></rect>
+	<rect x="152" y="136" style="fill:#FFFFFF" width="72" height="16" data-original="#403E3E" class="" data-old_color="#403E3E"></rect>
+	<rect x="288" y="136" style="fill:#FFFFFF" width="72" height="16" data-original="#403E3E" class="" data-old_color="#403E3E"></rect>
+	<rect x="288" y="104" style="fill:#FFFFFF" width="72" height="16" data-original="#403E3E" class="" data-old_color="#403E3E"></rect>
+	<rect x="152" y="168" style="fill:#FFFFFF" width="72" height="16" data-original="#403E3E" class="" data-old_color="#403E3E"></rect>
+	<rect x="152" y="200" style="fill:#FFFFFF" width="72" height="16" data-original="#403E3E" class="" data-old_color="#403E3E"></rect>
+	<rect x="72" y="232" style="fill:#FFFFFF" width="152" height="16" data-original="#403E3E" class="" data-old_color="#403E3E"></rect>
+	<rect x="72" y="264" style="fill:#FFFFFF" width="152" height="16" data-original="#403E3E" class="" data-old_color="#403E3E"></rect>
+	<rect x="72" y="328" style="fill:#FFFFFF" width="152" height="16" data-original="#403E3E" class="" data-old_color="#403E3E"></rect>
+	<rect x="288" y="328" style="fill:#FFFFFF" width="72" height="16" data-original="#403E3E" class="" data-old_color="#403E3E"></rect>
+	<rect x="288" y="296" style="fill:#FFFFFF" width="72" height="16" data-original="#403E3E" class="" data-old_color="#403E3E"></rect>
+	<rect x="144" y="296" style="fill:#FFFFFF" width="16" height="16" data-original="#403E3E" class="" data-old_color="#403E3E"></rect>
+	<rect x="176" y="296" style="fill:#FFFFFF" width="16" height="16" data-original="#403E3E" class="" data-old_color="#403E3E"></rect>
+	<rect x="208" y="296" style="fill:#FFFFFF" width="16" height="16" data-original="#403E3E" class="" data-old_color="#403E3E"></rect>
+</g></g> </svg>

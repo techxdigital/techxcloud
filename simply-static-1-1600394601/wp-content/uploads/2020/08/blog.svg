@@ -1,0 +1,28 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" id="Capa_1" x="0px" y="0px" viewBox="0 0 512 512" style="enable-background:new 0 0 512 512;" xml:space="preserve" width="512px" height="512px" class=""><g><g>
+	<path style="fill:#FFFFFF" d="M56,172H40c0-6.264,2.536-12.248,7.144-16.856S57.736,148,64,148h208v16H64   c-2.016,0-3.936,0.848-5.544,2.456C56.848,168.064,56,169.984,56,172z" data-original="#403E3E" class="active-path" data-old_color="#403E3E"></path>
+	<rect x="456" y="252" style="fill:#FFFFFF" width="16" height="176" data-original="#403E3E" class="active-path" data-old_color="#403E3E"></rect>
+	<path style="fill:#FFFFFF" d="M472,484H40c-10.392,0-20.352-4.24-28.056-11.944C4.24,464.36,0,454.392,0,444v-24h195.312l16,16   h89.376l16-16H512v24c0,10.392-4.24,20.352-11.944,28.056S482.392,484,472,484z M16,436v8c0,6.12,2.576,12.064,7.256,16.744   S33.88,468,40,468h432c6.12,0,12.064-2.576,16.744-7.256S496,450.12,496,444v-8H323.312l-16,16H204.688l-16-16H16z" data-original="#403E3E" class="active-path" data-old_color="#403E3E"></path>
+	<rect x="216" y="380" style="fill:#FFFFFF" width="16" height="16" data-original="#403E3E" class="active-path" data-old_color="#403E3E"></rect>
+	<rect x="248" y="380" style="fill:#FFFFFF" width="16" height="16" data-original="#403E3E" class="active-path" data-old_color="#403E3E"></rect>
+	<rect x="280" y="380" style="fill:#FFFFFF" width="16" height="16" data-original="#403E3E" class="active-path" data-old_color="#403E3E"></rect>
+	<rect x="192" y="188" style="fill:#FFFFFF" width="80" height="16" data-original="#403E3E" class="active-path" data-old_color="#403E3E"></rect>
+	<polygon style="fill:#FFFFFF" points="200,396 80,396 80,316 96,316 96,380 200,380  " data-original="#403E3E" class="active-path" data-old_color="#403E3E"></polygon>
+	<polygon style="fill:#FFFFFF" points="432,396 312,396 312,380 416,380 416,252 432,252  " data-original="#403E3E" class="active-path" data-old_color="#403E3E"></polygon>
+</g><g>
+	<path style="fill:#F96232;" d="M512,236H288V76h224V236z M304,220h192V92H304V220z" data-original="#F96232"></path>
+	<path style="fill:#F96232;" d="M386.216,188H368v-64h18.216l53.328,32L386.216,188z M384,141.328v29.344L408.456,156L384,141.328z" data-original="#F96232"></path>
+</g><g>
+	<rect x="32" y="220" style="fill:#FFB229" width="112" height="16" data-original="#43D3E8" class="" data-old_color="#43D3E8"></rect>
+	<rect x="32" y="252" style="fill:#FFB229" width="56" height="16" data-original="#43D3E8" class="" data-old_color="#43D3E8"></rect>
+	<polygon style="fill:#FFB229" points="176,300 56,300 56,284 160,284 160,204 16,204 16,292 0,292 0,188 176,188  " data-original="#43D3E8" class="" data-old_color="#43D3E8"></polygon>
+	<path style="fill:#FFB229" d="M8,332c-1.032,0-2.072-0.192-3.064-0.608C1.952,330.16,0,327.232,0,324v-32h16v12.688l18.344-18.344   C35.84,284.84,37.88,284,40,284h16v16H43.312l-29.656,29.656C12.128,331.184,10.08,332,8,332z" data-original="#43D3E8" class="" data-old_color="#43D3E8"></path>
+</g><rect x="40" y="316" style="fill:#FFFFFF" width="16" height="112" data-original="#403E3E" class="active-path" data-old_color="#403E3E"></rect><g>
+	<path style="fill:#FFB229" d="M360,348c-17.944,0-32-14.056-32-32v-64h16v64c0,9.128,6.872,16,16,16s16-6.872,16-16h16   C392,333.944,377.944,348,360,348z" data-original="#43D3E8" class="" data-old_color="#43D3E8"></path>
+	<rect x="312" y="268" style="fill:#FFB229" width="48" height="16" data-original="#43D3E8" class="" data-old_color="#43D3E8"></rect>
+</g><g>
+	<polygon style="fill:#FFFFFF" points="192,132 176,132 176,28 232,28 232,44 192,44  " data-original="#403E3E" class="active-path" data-old_color="#403E3E"></polygon>
+	<rect x="160" y="76" style="fill:#FFFFFF" width="48" height="16" data-original="#403E3E" class="active-path" data-old_color="#403E3E"></rect>
+</g><g>
+	<rect x="40" y="84" style="fill:#F96232;" width="16" height="48" data-original="#F96232"></rect>
+	<rect x="24" y="100" style="fill:#F96232;" width="48" height="16" data-original="#F96232"></rect>
+</g></g> </svg>
