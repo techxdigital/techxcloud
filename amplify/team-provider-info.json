@@ -1,0 +1,20 @@
+{
+  "dev": {
+    "awscloudformation": {
+      "AuthRoleName": "amplify-techxcloud-dev-145130-authRole",
+      "UnauthRoleArn": "arn:aws:iam::525700904043:role/amplify-techxcloud-dev-145130-unauthRole",
+      "AuthRoleArn": "arn:aws:iam::525700904043:role/amplify-techxcloud-dev-145130-authRole",
+      "Region": "ap-southeast-1",
+      "DeploymentBucketName": "amplify-techxcloud-dev-145130-deployment",
+      "UnauthRoleName": "amplify-techxcloud-dev-145130-unauthRole",
+      "StackName": "amplify-techxcloud-dev-145130",
+      "StackId": "arn:aws:cloudformation:ap-southeast-1:525700904043:stack/amplify-techxcloud-dev-145130/6fc87a90-f7f1-11ea-8f3b-02f95ca67868",
+      "AmplifyAppId": "d3rtburw78finr"
+    },
+    "categories": {
+      "auth": {
+        "techxcloud5572442b": {}
+      }
+    }
+  }
+}

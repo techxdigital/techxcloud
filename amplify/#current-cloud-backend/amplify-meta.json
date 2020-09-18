@@ -1,0 +1,68 @@
+{
+  "providers": {
+    "awscloudformation": {
+      "AuthRoleName": "amplify-techxcloud-dev-145130-authRole",
+      "UnauthRoleArn": "arn:aws:iam::525700904043:role/amplify-techxcloud-dev-145130-unauthRole",
+      "AuthRoleArn": "arn:aws:iam::525700904043:role/amplify-techxcloud-dev-145130-authRole",
+      "Region": "ap-southeast-1",
+      "DeploymentBucketName": "amplify-techxcloud-dev-145130-deployment",
+      "UnauthRoleName": "amplify-techxcloud-dev-145130-unauthRole",
+      "StackName": "amplify-techxcloud-dev-145130",
+      "StackId": "arn:aws:cloudformation:ap-southeast-1:525700904043:stack/amplify-techxcloud-dev-145130/6fc87a90-f7f1-11ea-8f3b-02f95ca67868",
+      "AmplifyAppId": "d3rtburw78finr"
+    }
+  },
+  "api": {
+    "techxcloud": {
+      "service": "AppSync",
+      "providerPlugin": "awscloudformation",
+      "output": {
+        "authConfig": {
+          "defaultAuthentication": {
+            "authenticationType": "API_KEY",
+            "apiKeyConfig": {
+              "apiKeyExpirationDays": 365,
+              "description": "todos"
+            }
+          },
+          "additionalAuthenticationProviders": []
+        },
+        "GraphQLAPIIdOutput": "njtfwupib5bs7pstkib72n7pwy",
+        "GraphQLAPIEndpointOutput": "https://53o5mow4qjeqhmiaxrky5glinu.appsync-api.ap-southeast-1.amazonaws.com/graphql",
+        "GraphQLAPIKeyOutput": "da2-zjegovyqjvfjbixj7ra6n4quui"
+      },
+      "providerMetadata": {
+        "s3TemplateURL": "https://s3.amazonaws.com/amplify-techxcloud-dev-145130-deployment/amplify-cfn-templates/api/cloudformation-template.json",
+        "logicalId": "apitechxcloud"
+      },
+      "lastPushTimeStamp": "2020-09-17T08:10:32.190Z",
+      "lastPushDirHash": "g/oUxmtL2+mkdx18l/XQAEI6/8k="
+    }
+  },
+  "auth": {
+    "techxcloud5572442b": {
+      "service": "Cognito",
+      "providerPlugin": "awscloudformation",
+      "dependsOn": [],
+      "customAuth": false,
+      "providerMetadata": {
+        "s3TemplateURL": "https://s3.amazonaws.com/amplify-techxcloud-dev-145130-deployment/amplify-cfn-templates/auth/techxcloud5572442b-cloudformation-template.yml",
+        "logicalId": "authtechxcloud5572442b"
+      },
+      "lastPushTimeStamp": "2020-09-17T08:10:30.785Z",
+      "output": {
+        "AppClientSecret": "1tq1j4nat5t014gq8asrfmg0nrmg5lcbv7ctu5ii23mcmv909u1o",
+        "UserPoolId": "ap-southeast-1_1MLT6Z7Tp",
+        "AppClientIDWeb": "3a228pv206khranmnb9h5v428i",
+        "AppClientID": "7u6gtn4fuan6pnuk0095ii2sog",
+        "IdentityPoolId": "ap-southeast-1:b47f1dfa-0f47-42e9-917e-7b42b4d36a3c",
+        "IdentityPoolName": "techxcloud5572442b_identitypool_5572442b__dev",
+        "UserPoolName": "techxcloud5572442b_userpool_5572442b"
+      },
+      "lastPushDirHash": "LQqh9EGc/cq7Hy0jYHCnxSGgISg="
+    }
+  },
+  "analytics": {},
+  "storage": {},
+  "function": {}
+}

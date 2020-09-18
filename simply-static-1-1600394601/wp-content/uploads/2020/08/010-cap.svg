@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" id="Layer_1" x="0px" y="0px" viewBox="0 0 512 512" style="enable-background:new 0 0 512 512;" xml:space="preserve" width="512" height="512" class=""><g><g>
+	<path style="fill:#E3E3E3;" d="M80,368h140c8.8-9.6,21.6-16,36-16s27.2,6.4,36,16h140v63.2c35.2-40.8,56-93.6,56-151.2   c0-53.6-18.4-103.2-48.8-142.4L360,171.2V216v40c0,30.4-46.4,56-104,56s-104-25.6-104-56v-40v-44.8l-79.2-33.6   C42.4,176.8,24,226.4,24,280c0,57.6,20.8,110.4,56,151.2V368z" data-original="#E3E3E3" class=""></path>
+	<path style="fill:#E3E3E3;" d="M288,432l-8,8h-48l-8-8H80.8c42.4,48.8,105.6,80,175.2,80s132.8-31.2,175.2-80H288z" data-original="#E3E3E3" class=""></path>
+</g><polygon style="fill:#E35B17;" points="224,440 224,512 256,496 288,512 288,440 " data-original="#E35B17" class=""></polygon><g>
+	<polygon style="fill:#2B2B2B;" points="192,440 72,440 72,360 224,360 224,376 88,376 88,424 192,424  " data-original="#2B2B2B" class=""></polygon>
+	<polygon style="fill:#2B2B2B;" points="440,440 320,440 320,424 424,424 424,376 288,376 288,360 440,360  " data-original="#2B2B2B" class=""></polygon>
+	<path style="fill:#2B2B2B;" d="M256,456c-31.2,0-56-24.8-56-56s24.8-56,56-56s56,24.8,56,56S287.2,456,256,456z M256,360   c-22.4,0-40,17.6-40,40s17.6,40,40,40s40-17.6,40-40S278.4,360,256,360z" data-original="#2B2B2B" class=""></path>
+	<rect x="168" y="392" style="fill:#2B2B2B;" width="16" height="16" data-original="#2B2B2B" class=""></rect>
+	<rect x="328" y="392" style="fill:#2B2B2B;" width="16" height="16" data-original="#2B2B2B" class=""></rect>
+	<rect x="96" y="152" style="fill:#2B2B2B;" width="16" height="112" data-original="#2B2B2B" class=""></rect>
+</g><path style="fill:#FF661A;" d="M256,272c-57.6,0-104-25.6-104-56v40c0,30.4,46.4,56,104,56s104-25.6,104-56v-40  C360,246.4,313.6,272,256,272z" data-original="#FF661A" class=""></path><path style="fill:#2B2B2B;" d="M256,320c-63.2,0-112-28-112-64v-88h16v88c0,26.4,44,48,96,48s96-21.6,96-48v-88h16v88  C368,292,319.2,320,256,320z" data-original="#2B2B2B" class=""></path><polygon style="fill:#FFB229" points="256,40 88,112 256,184 424,112 " data-original="#54E3E3" class="active-path" data-old_color="#54E3E3"></polygon><g>
+	<rect x="248" y="104" style="fill:#2B2B2B;" width="16" height="16" data-original="#2B2B2B" class=""></rect>
+	<path style="fill:#2B2B2B;" d="M256,224.8L24,125.6V99.2L256,0l232,99.2v26.4L256,224.8z M40,114.4l216,92.8l216-92.8v-5.6L256,16   L40,108.8V114.4z" data-original="#2B2B2B" class=""></path>
+</g></g> </svg>
